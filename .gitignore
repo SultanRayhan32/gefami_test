@@ -1,0 +1,144 @@
+services/node_modules/
+
+# OSX
+#
+FirstTest/.DS_Store
+
+# Xcode
+#
+FirstTest/build/
+FirstTest/*.pbxuser
+!FirstTest/default.pbxuser
+FirstTest/*.mode1v3
+!FirstTest/default.mode1v3
+FirstTest/*.mode2v3
+!FirstTest/default.mode2v3
+FirstTest/*.perspectivev3
+!FirstTest/default.perspectivev3
+FirstTest/xcuserdata
+FirstTest/*.xccheckout
+FirstTest/*.moved-aside
+FirstTest/DerivedData
+FirstTest/*.hmap
+FirstTest/*.ipa
+FirstTest/*.xcuserstate
+FirstTest/**/.xcode.env.local
+
+# Android/IntelliJ
+#
+FirstTest/build/
+FirstTest/.idea
+FirstTest/.gradle
+FirstTest/local.properties
+FirstTest/*.iml
+FirstTest/*.hprof
+FirstTest/.cxx/
+FirstTest/*.keystore
+!FirstTest/debug.keystore
+FirstTest/.kotlin/
+
+# node.js
+#
+FirstTest/node_modules/
+FirstTest/npm-debug.log
+FirstTest/yarn-error.log
+
+# fastlane
+#
+FirstTest/**/fastlane/report.xml
+FirstTest/**/fastlane/Preview.html
+FirstTest/**/fastlane/screenshots
+FirstTest/**/fastlane/test_output
+
+# Bundle artifact
+FirstTest/*.jsbundle
+
+# Ruby / CocoaPods
+FirstTest/**/Pods/
+FirstTest/vendor/bundle/
+
+# Temporary files created by Metro to check the health of the file watcher
+FirstTest/.metro-health-check*
+
+# testing
+FirstTest/coverage
+
+# Yarn
+FirstTest/.yarn/*
+!FirstTest/.yarn/patches
+!FirstTest/.yarn/plugins
+!FirstTest/.yarn/releases
+!FirstTest/.yarn/sdks
+!FirstTest/.yarn/versions
+
+
+# OSX
+#
+LoginTest/.DS_Store
+
+# Xcode
+#
+LoginTest/build/
+LoginTest/*.pbxuser
+!LoginTest/default.pbxuser
+LoginTest/*.mode1v3
+!LoginTest/default.mode1v3
+LoginTest/*.mode2v3
+!LoginTest/default.mode2v3
+LoginTest/*.perspectivev3
+!LoginTest/default.perspectivev3
+LoginTest/xcuserdata
+LoginTest/*.xccheckout
+LoginTest/*.moved-aside
+LoginTest/DerivedData
+LoginTest/*.hmap
+LoginTest/*.ipa
+LoginTest/*.xcuserstate
+LoginTest/**/.xcode.env.local
+
+# Android/IntelliJ
+#
+LoginTest/build/
+LoginTest/.idea
+LoginTest/.gradle
+LoginTest/local.properties
+LoginTest/*.iml
+LoginTest/*.hprof
+LoginTest/.cxx/
+LoginTest/*.keystore
+!LoginTest/debug.keystore
+LoginTest/.kotlin/
+
+# node.js
+#
+LoginTest/node_modules/
+LoginTest/npm-debug.log
+LoginTest/yarn-error.log
+
+# fastlane
+#
+LoginTest/**/fastlane/report.xml
+LoginTest/**/fastlane/Preview.html
+LoginTest/**/fastlane/screenshots
+LoginTest/**/fastlane/test_output
+
+# Bundle artifact
+LoginTest/*.jsbundle
+
+# Ruby / CocoaPods
+LoginTest/**/Pods/
+LoginTest/vendor/bundle/
+
+# Temporary files created by Metro to check the health of the file watcher
+LoginTest/.metro-health-check*
+
+# testing
+LoginTest/coverage
+
+# Yarn
+LoginTest/.yarn/*
+!LoginTest/.yarn/patches
+!LoginTest/.yarn/plugins
+!LoginTest/.yarn/releases
+!LoginTest/.yarn/sdks
+!LoginTest/.yarn/versions
